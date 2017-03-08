@@ -1,5 +1,5 @@
 These are the parts you need to buy for building the Spot welder
-With the Reichelt.de Shop Links you can directly ad all parts to your shopping card.
+With the Reichelt.de Shop Links you can directly ad all parts to your shopping cart.
 
 What else you will need:
 
