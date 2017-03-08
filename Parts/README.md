@@ -8,7 +8,7 @@ What else you will need:
 
 Parts I bought at the local hardware store:
 - 1x piece of 16x70mm aluminium about 3 or 4mm thick
-- Some cable and short piece of thick solid copper wire for the probes tips  
+- Some 16mm² cable and short piece of thick solid copper wire for the probes tips  
 
 
 Optional:
