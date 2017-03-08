@@ -1,4 +1,4 @@
-# Arduino_Spot_Welder
+# Arduino_Spot_Welder_V2
 
 This is the new Version of the Arduino Spot Welder. The previous version can be found here https://github.com/KaeptnBalu/Arduino_Spot_Welder
 
