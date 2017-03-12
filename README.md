@@ -3,6 +3,7 @@
 This is the new Version of the Arduino Spot Welder. The previous version can be found here https://github.com/KaeptnBalu/Arduino_Spot_Welder
 
 An Arduino based Spot Welder for battery welding http://www.instructables.com/id/DIY-Arduino-Battery-Spot-Welder/
+Build Video: https://www.youtube.com/watch?v=4qOaeutVR8I
 
 This Spot Welder can be used to weld 18650 batteries. It needs a 7-12V power source (12V recommended) and uses a 12V car battery as welding current supply. Typically one 45Ah battery delivers enough current to get good welds with 0.15mm nickel strips. For thicker nickel strips maybe you will need bigger battery or two in paralell.
 
