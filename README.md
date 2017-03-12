@@ -9,6 +9,6 @@ This Spot Welder can be used to weld 18650 batteries. It needs a 7-12V power sou
 
 The Welder generates a double pulse, where the first one is 1/8 of the time of the second one. Pulse time of second pulse is adjustable by the potentiometer and displayed on the screen in mS so you can exactly adjust the time. Its adjustable from 1 ... 20 mS.
 
-If you want to download the project click on "Download ZIP" on this page. Downloading single files sometimes seems to cause some files to be corrupted while downloading.
+If you want to download the project click on "clone or download" on this page. Downloading single files sometimes seems to cause some files to be corrupted while downloading.
 
 With Arduino IDE installed, double click the arduino_spot_welder.ino in the Arduino Code folder.
