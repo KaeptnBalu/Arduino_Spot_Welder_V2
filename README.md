@@ -11,4 +11,3 @@ The Welder generates a double pulse, where the first one is 1/8 of the time of t
 
 If you want to download the project click on "clone or download" on this page. Downloading single files sometimes seems to cause some files to be corrupted while downloading.
 
-With Arduino IDE installed, double click the arduino_spot_welder.ino in the Arduino Code folder.
