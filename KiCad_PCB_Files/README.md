@@ -7,7 +7,7 @@ You can support me by registering through this link http://www.pcbway.com/setinv
 This way you get a 5$ coupon for your order and i get some percent discount at the shop for upcoming projects.
 
 
-As the Gerber File you can use the Spot_Welder_V2_Gerber.zip which has both boards combined to one big board. 
+As the Gerber Files you can use the Spot_Welder_V2_Gerber.zip or the latest Spot_Welder_V2.1_Gerber.zip which have both boards combined to one big board. 
 You have to cut this in half at home to get the two single boards.
 
 
