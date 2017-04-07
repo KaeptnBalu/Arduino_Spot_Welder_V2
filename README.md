@@ -11,4 +11,4 @@ The Welder generates a double pulse, where the first one is 1/8 of the time of t
 
 If you want to download the project click on "clone or download" on this page. Downloading single files sometimes seems to cause some files to be corrupted while downloading.
 
-You can get parts to build your own Spot Welder or prebuilt kits at https://malectrics.com/
+You can get parts to build your own Spot Welder or prebuilt kits at https://malectrics.eu/
