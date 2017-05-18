@@ -1,6 +1,7 @@
 Improvements in Version 2.2
 
 - Mosfet PCB now with 2oz copper layer and wider traces which connect the high current carrying mosfet legs to the u-shaped aluminum part
+- little bit bigger mounting holes for u-shaped aluminum piece (2.6mm instead of 2.5mm)
 - "AutoPulse" feature, which automatically activates a pulse after a 2 second delay when both welding tips touch the nickel strip (thanks to Petr Zverina for the idea)
 
 
