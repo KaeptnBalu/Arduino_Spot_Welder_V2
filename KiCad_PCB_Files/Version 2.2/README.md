@@ -10,3 +10,5 @@ The mosfet pcb update was done because some users who tryed welding with more th
 The new "AutoPulse" feature only needs 5 small additional parts on the pcb. (470 Ohm resistor, 620 Ohm resistor, z-diode 4,3V 0,5w, 2,54mm jumper, 2 pin 2,54mm male header). Resistor R13 does not need to be populated. It was meant as a pull down resistor, but after looking close to the schematic i realised R14 + R15 already do the pull down to GND.
 
 To activate the "AutoPulse" feature simply plug a jumper on the male 2 pin header named "Auto_Pulse" which connects the two pins.
+
+You can get the new V2.2 PCB Sets here: https://malectrics.eu/
