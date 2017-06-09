@@ -127,7 +127,7 @@
     (add_net "Net-(Mosfet_CTRL2-Pad8)")
   )
 
-  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 58CAB641) (tstamp 58CAB72D)
+  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 593A704A) (tstamp 58CAB72D)
     (at 134 80 270)
     (descr "TO-220, Neutral, Horizontal, Large Pads,")
     (tags "TO-220, Neutral, Horizontal, Large Pads,")
@@ -135,7 +135,7 @@
     (fp_text reference Q5 (at -4 -19 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value IRF1405 (at -4 -8 360) (layer F.SilkS)
+    (fp_text value IRFB_7437 (at -3 -8 360) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2.54 -3.683) (end -2.54 -2.286) (layer F.SilkS) (width 0.15))
@@ -416,7 +416,7 @@
     (pad "" np_thru_hole circle (at 0 0) (size 2.6 2.6) (drill 2.6) (layers *.Cu *.Mask))
   )
 
-  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 58CACD67) (tstamp 58CAB6DD)
+  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 593A7060) (tstamp 58CAB6DD)
     (at 176 119 90)
     (descr "TO-220, Neutral, Horizontal, Large Pads,")
     (tags "TO-220, Neutral, Horizontal, Large Pads,")
@@ -424,7 +424,7 @@
     (fp_text reference Q1 (at 3.75 -19 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value IRF1405 (at 4 -7.5 180) (layer F.SilkS)
+    (fp_text value IRFB_7437 (at 3 -8 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2.54 -3.683) (end -2.54 -2.286) (layer F.SilkS) (width 0.15))
@@ -453,7 +453,7 @@
     )
   )
 
-  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 58CACD6D) (tstamp 58CAB6F1)
+  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 593A705A) (tstamp 58CAB6F1)
     (at 176 106 90)
     (descr "TO-220, Neutral, Horizontal, Large Pads,")
     (tags "TO-220, Neutral, Horizontal, Large Pads,")
@@ -461,7 +461,7 @@
     (fp_text reference Q2 (at 3.75 -18.75 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value IRF1405 (at 4 -7.5 180) (layer F.SilkS)
+    (fp_text value IRFB_7437 (at 3 -8 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2.54 -3.683) (end -2.54 -2.286) (layer F.SilkS) (width 0.15))
@@ -490,7 +490,7 @@
     )
   )
 
-  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 58CACD72) (tstamp 58CAB705)
+  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 593A7053) (tstamp 58CAB705)
     (at 176 93 90)
     (descr "TO-220, Neutral, Horizontal, Large Pads,")
     (tags "TO-220, Neutral, Horizontal, Large Pads,")
@@ -498,7 +498,7 @@
     (fp_text reference Q3 (at 3.75 -18.75 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value IRF1405 (at 4 -7.5 180) (layer F.SilkS)
+    (fp_text value IRFB_7437 (at 3 -8 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2.54 -3.683) (end -2.54 -2.286) (layer F.SilkS) (width 0.15))
@@ -527,7 +527,7 @@
     )
   )
 
-  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 58CACD77) (tstamp 58CAB719)
+  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 593A704D) (tstamp 58CAB719)
     (at 176 80 90)
     (descr "TO-220, Neutral, Horizontal, Large Pads,")
     (tags "TO-220, Neutral, Horizontal, Large Pads,")
@@ -535,7 +535,7 @@
     (fp_text reference Q4 (at 4 -19 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value IRF1405 (at 4 -7.5 180) (layer F.SilkS)
+    (fp_text value IRFB_7437 (at 3 -8 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2.54 -3.683) (end -2.54 -2.286) (layer F.SilkS) (width 0.15))
@@ -564,7 +564,7 @@
     )
   )
 
-  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 58CAB622) (tstamp 58CAB741)
+  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 593A7050) (tstamp 58CAB741)
     (at 134 93 270)
     (descr "TO-220, Neutral, Horizontal, Large Pads,")
     (tags "TO-220, Neutral, Horizontal, Large Pads,")
@@ -572,7 +572,7 @@
     (fp_text reference Q6 (at -3.75 -19 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value IRF1405 (at -4 -8 360) (layer F.SilkS)
+    (fp_text value IRFB_7437 (at -3 -8 360) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2.54 -3.683) (end -2.54 -2.286) (layer F.SilkS) (width 0.15))
@@ -601,7 +601,7 @@
     )
   )
 
-  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 58CAB62D) (tstamp 58CAB755)
+  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 593A7056) (tstamp 58CAB755)
     (at 134 106 270)
     (descr "TO-220, Neutral, Horizontal, Large Pads,")
     (tags "TO-220, Neutral, Horizontal, Large Pads,")
@@ -609,7 +609,7 @@
     (fp_text reference Q7 (at -3.75 -18.75 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value IRF1405 (at -4 -8 360) (layer F.SilkS)
+    (fp_text value IRFB_7437 (at -3 -8 360) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2.54 -3.683) (end -2.54 -2.286) (layer F.SilkS) (width 0.15))
@@ -638,7 +638,7 @@
     )
   )
 
-  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 58CAB5FD) (tstamp 58CAB769)
+  (module pots_own:TO-220__long_Neutral123_Horizontal_LargePads (layer F.Cu) (tedit 593A705D) (tstamp 58CAB769)
     (at 134 119 270)
     (descr "TO-220, Neutral, Horizontal, Large Pads,")
     (tags "TO-220, Neutral, Horizontal, Large Pads,")
@@ -646,7 +646,7 @@
     (fp_text reference Q8 (at -3.75 -19 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value IRF1405 (at -4 -8 360) (layer F.SilkS)
+    (fp_text value IRFB_7437 (at -3 -8 360) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -2.54 -3.683) (end -2.54 -2.286) (layer F.SilkS) (width 0.15))
