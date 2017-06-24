@@ -18,7 +18,7 @@ Improvements in the V2:
 
 This Spot Welder can be used to weld 18650 batteries. It needs a 7-12V power source (12V recommended) and uses a 12V car battery as welding current supply. Typically one 45Ah battery delivers enough current to get good welds with 0.15mm nickel strips. For thicker nickel strips maybe you will need bigger battery or two in paralell.
 
-The Welder generates a double pulse, where the first one is 1/8 of the time of the second one. Pulse time of second pulse is adjustable by the potentiometer and displayed on the screen in mS so you can exactly adjust the time. Its adjustable from 1 ... 20 mS.
+The Welder generates a double pulse, where the first one is 1/8 of the time of the second one. Pulse time of second pulse is adjustable by the potentiometer and displayed on the screen in mS so you can exactly adjust the time. Its adjustable from 1 ... 90 mS.
 
 If you want to download the project click on "clone or download" on this page. Downloading single files sometimes seems to cause some files to be corrupted while downloading.
 
