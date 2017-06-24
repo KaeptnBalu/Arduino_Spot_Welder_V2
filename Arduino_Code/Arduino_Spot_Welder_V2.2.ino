@@ -1,7 +1,7 @@
-// Arduino Battery Spot Welder
+// Arduino Battery Spot Welder V2.2
 // Project Page: http://www.instructables.com/id/DIY-Arduino-Battery-Spot-Welder/
 
-int max_pulse_time = 20; // Sets the maximum pulse time to 20mS (do not use higher than 99 because the display only works up to 99)
+int max_pulse_time = 90; // Sets the maximum pulse time to 90mS (do not use higher than 99 because the display only works up to 99)
 int autopulse_delay = 2000; // Delay until the pulse is activated after both welding tips touch the nickel strip (2000 = 2 seconds) 
 int mosfetPin = 5;  // Pin that controls the mosfet drivers
 int ledPin = 4;   // Pin to control the status led
