@@ -15,6 +15,16 @@ Improvements in the V2:
     - aluminum u-shaped part for the mosfet board (much easier to assemble)
     - general pcb layout improvements
     - pcb is now designed in KiCad (more open source than Eagle)
+    
+ Improvements in the V2.2:
+ 
+
+    - Mosfet PCB now with 2oz copper layer and wider traces 
+    which connect the high current carrying mosfet legs to the u-shaped aluminum part
+    - little bit bigger mounting holes for u-shaped aluminum piece (2.6mm instead of 2.5mm)
+    - "AutoPulse" feature, which automatically activates a pulse after a 2 second delay 
+    when both welding tips touch the nickel strip (thanks to Petr Zverina for the idea)
+
 
 This Spot Welder can be used to weld 18650 batteries. It needs a 7-12V power source (12V recommended) and uses a 12V car battery as welding current supply. Typically one 45Ah battery delivers enough current to get good welds with 0.15mm nickel strips. For thicker nickel strips maybe you will need bigger battery or two in paralell.
 
