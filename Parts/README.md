@@ -13,7 +13,7 @@ Parts I bought at the local hardware store:
 
 
 Optional:
-Diodes to protect the Mosfets from high voltage spikes.
+Diodes to protect the Mosfets from high voltage spikes. (already included in the Mouser.com shopping cart)
 - Schottky: VS-100BGQ015 Mouser.com Part: 844-100BGQ015
 - TVS: 5KP13A-E3/54 Mouser.com Part: 625-5KP13A-E3
 
