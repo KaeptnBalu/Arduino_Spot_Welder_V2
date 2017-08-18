@@ -5,7 +5,9 @@ This is the new Version of the Arduino Spot Welder. The previous version can be 
 An Arduino based Spot Welder for battery welding http://www.instructables.com/id/DIY-Arduino-Battery-Spot-Welder/ <br>
 Build Video: https://www.youtube.com/watch?v=4qOaeutVR8I
 
-3D prinable case: https://www.thingiverse.com/thing:2488481   (Thanks to Neil Paisnel)
+3D prinable cases: 
+- https://www.thingiverse.com/thing:2488481   (Thanks to Neil Paisnel)
+- https://www.thingiverse.com/thing:2346476   (Thanks to AugustRetroDoom)
 
 Improvements in the V2:
 
