@@ -1,6 +1,6 @@
 # Arduino_Spot_Welder_V2
 
-This is the new Version of the Arduino Spot Welder. The previous version can be found here https://github.com/KaeptnBalu/Arduino_Spot_Welder
+This is the older V2 Version of the Arduino Spot Welder. The new V3 can be found here https://github.com/KaeptnBalu/Arduino_Spot_Welder_V3 The previous V1 can be found here https://github.com/KaeptnBalu/Arduino_Spot_Welder
 
 An Arduino based Spot Welder for battery welding http://www.instructables.com/id/DIY-Arduino-Battery-Spot-Welder/ <br>
 Build Video: https://www.youtube.com/watch?v=4qOaeutVR8I
